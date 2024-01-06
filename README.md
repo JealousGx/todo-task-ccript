@@ -92,9 +92,9 @@ const taskSchema = new mongoose.Schema(
 
 ## App Preview
 
-![App Preview](https://raw.githubusercontent.com/JealousGx/todo-task-ccript/assets/todo-app.jpeg)
+![App Preview](https://raw.githubusercontent.com/JealousGx/todo-task-ccript/main/assets/todo-app.jpeg?token=GHSAT0AAAAAACMO2SMNU33CO54GI6FKWR2WZMZQAVA)
 
-![App Preview (No Task)](https://raw.githubusercontent.com/JealousGx/todo-task-ccript/assets/todo-app-no-task.jpeg)
+![App Preview (No Task)](https://raw.githubusercontent.com/JealousGx/todo-task-ccript/main/assets/todo-app-no-task.jpeg?token=GHSAT0AAAAAACMO2SMMBZ3UJIPIVNTKXXCEZMZQBPA)
 
 ## Further Enhancements
 
